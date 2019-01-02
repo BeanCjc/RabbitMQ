@@ -1,0 +1,15 @@
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\ReceiveMessageDirect.exe.config
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\ReceiveMessageDirect.exe
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\ReceiveMessageDirect.pdb
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\RabbitMQ.Client.dll
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\bin\Debug\RabbitMQ.Client.xml
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.csprojAssemblyReference.cache
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.Form1.resources
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.Properties.Resources.resources
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.csproj.GenerateResource.cache
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.csproj.CoreCompileInputs.cache
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.csproj.CopyComplete
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.exe
+D:\Study\RabbitMQ\6Models\Routing\ReceiveMessageDirect\ReceiveMessageDirect\obj\Debug\ReceiveMessageDirect.pdb

@@ -1,0 +1,15 @@
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\Producer.exe.config
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\Producer.exe
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\Producer.pdb
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\RabbitMQ.Client.dll
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\bin\Debug\RabbitMQ.Client.xml
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.csprojAssemblyReference.cache
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.Form1.resources
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.Properties.Resources.resources
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.csproj.GenerateResource.cache
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.csproj.CopyComplete
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.exe
+D:\Study\RabbitMQ\6Models\ProducerConsumer\Producer\Producer\obj\Debug\Producer.pdb

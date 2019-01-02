@@ -1,0 +1,15 @@
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\Publish.exe.config
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\Publish.exe
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\Publish.pdb
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\RabbitMQ.Client.dll
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\bin\Debug\RabbitMQ.Client.xml
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.csprojAssemblyReference.cache
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.Form1.resources
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.Properties.Resources.resources
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.csproj.GenerateResource.cache
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.csproj.CoreCompileInputs.cache
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.csproj.CopyComplete
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.exe
+D:\Study\RabbitMQ\6Models\PublishSubscribe\Publish\Publish\obj\Debug\Publish.pdb

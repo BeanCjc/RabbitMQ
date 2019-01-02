@@ -1,0 +1,15 @@
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\Worker2.exe.config
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\Worker2.exe
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\Worker2.pdb
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\RabbitMQ.Client.dll
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\bin\Debug\RabbitMQ.Client.xml
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.csprojAssemblyReference.cache
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.Form1.resources
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.Properties.Resources.resources
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.csproj.GenerateResource.cache
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.csproj.CoreCompileInputs.cache
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.csproj.CopyComplete
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.exe
+D:\Study\RabbitMQ\6Models\Worker\Worker2\Worker2\obj\Debug\Worker2.pdb

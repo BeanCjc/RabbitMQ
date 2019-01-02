@@ -1,0 +1,15 @@
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\Procucer.exe.config
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\Procucer.exe
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\Procucer.pdb
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\RabbitMQ.Client.dll
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\bin\Debug\RabbitMQ.Client.xml
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.csprojAssemblyReference.cache
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.Form1.resources
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.Properties.Resources.resources
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.csproj.GenerateResource.cache
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.csproj.CoreCompileInputs.cache
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.csproj.CopyComplete
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.exe
+D:\Study\RabbitMQ\6Models\Worker\Procucer\Procucer\obj\Debug\Procucer.pdb
