@@ -32,6 +32,7 @@ namespace RPCClient
         static readonly BlockingCollection<string> collection = new BlockingCollection<string>();
         static readonly string queueName = "rpc_queue";
         static readonly string replyQueueName = channel.QueueDeclare().QueueName;//使用统一的回调队列，ID不同
+        static List<string> correlationIdLists = new List<string>();
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -48,7 +49,7 @@ namespace RPCClient
             else
             {
                 var propertites = channel.CreateBasicProperties();
-                var correlationId = new Guid().ToString();
+                var correlationId = Guid.NewGuid().ToString();
                 propertites.CorrelationId = correlationId;//回调队列id
                 propertites.ReplyTo = replyQueueName;//回调队列名
                 var message = textBox1.Text.Trim();
@@ -59,21 +60,25 @@ namespace RPCClient
                 channel.BasicConsume(replyQueueName, false, consumer);
                 consumer.Received += (model, ea) =>
                 {
-                    if (ea.BasicProperties.CorrelationId == correlationId)
+                    //if (ea.BasicProperties.CorrelationId == correlationId)
+                    if (correlationIdLists.Contains(ea.BasicProperties.CorrelationId))
                     {
                         var replyBody = ea.Body;
                         var replyMessage = Encoding.UTF8.GetString(replyBody);
-                        collection.Add(replyMessage);//先这么写吧
+                        richTextBox1.Invoke(new Action(() => richTextBox1.Text += $"服务端已处理完毕，并发回确认的相关消息 [{replyMessage}] ID=[{ea.BasicProperties.CorrelationId}]\r\n"));
+                        //collection.Add(replyMessage);//先这么写吧
                         channel.BasicAck(ea.DeliveryTag, false);
+                        correlationIdLists.Remove(correlationId);
                     }
                 };
                 #endregion
 
                 //客户端发送消息到远程服务器
                 channel.BasicPublish("", queueName, propertites, body);
-                richTextBox1.Text += $"客户端消息:[{message}] 已发往远程服务端,客户端等待远程处理完毕!\r\n";
-                var replyInfo = collection.Take();//阻塞线程
-                richTextBox1.Text += $"服务端已处理完毕，并发回确认的相关消息 [{replyInfo}]\r\n";
+                correlationIdLists.Add(correlationId);
+                richTextBox1.Text += $"客户端消息:[{message}] ID=[{correlationId}]已发往远程服务端,客户端等待远程处理完毕!\r\n";
+                //var replyInfo = collection.Take();//阻塞线程
+                //richTextBox1.Text += $"服务端已处理完毕，并发回确认的相关消息 [{replyInfo}]\r\n";
                 textBox1.Clear();
             }
 

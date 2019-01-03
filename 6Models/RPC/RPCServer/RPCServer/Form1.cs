@@ -33,7 +33,7 @@ namespace RPCServer
         private void Form1_Load(object sender, EventArgs e)
         {
             channel.QueueDeclare(queueName, false, false, false, null);
-            channel.BasicQos(0, 1, false);
+            channel.BasicQos(0, 3, false);
             var consumer = new EventingBasicConsumer(channel);
             channel.BasicConsume(queueName, false, consumer);
             consumer.Received += (model, ea) =>
