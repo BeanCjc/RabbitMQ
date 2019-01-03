@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\RPCServer.exe.config
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\RPCServer.exe
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\RPCServer.pdb
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.Form1.resources
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.exe
+C:\Users\Administrator\source\repos\RPCServer\RPCServer\obj\Debug\RPCServer.pdb

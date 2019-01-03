@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\RPCClient.exe.config
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\RPCClient.exe
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\RPCClient.pdb
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.Form1.resources
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.Properties.Resources.resources
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.csproj.CopyComplete
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.exe
+C:\Users\Administrator\source\repos\RPCClient\RPCClient\obj\Debug\RPCClient.pdb
